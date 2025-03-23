@@ -1,5 +1,2 @@
 # application-de-chat
-cachier de charge.
-
-
-bla bla bla 
+cachier de charge attache 
